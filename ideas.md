@@ -29,6 +29,7 @@
  - Lighting
  - Achievable Development Goals
  - Toy Mechanics
+ - Building a Learning Community
 
  - First Impressions
  - Knowledge is Power
