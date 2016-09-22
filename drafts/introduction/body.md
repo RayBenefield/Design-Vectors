@@ -6,6 +6,8 @@ In 2009, I decided to try to package my own philosophies on game/level design in
 Fast forward to the time of writing this, I have been a chosen volunteer Community Content Curator with 343 Industries (aka Community Cartographer, we assist in putting community maps in matchmaking) and now I run my own volunteer based content creation team called Creative Force with 15+ amazing individuals (going on a year now). In the "real" world I'm a Lead Software Engineer and Architect. In the time since I wrote those lessons I have changed, experienced, and learned a lot. And I've never stopped wanting to share my own philosophies, so enter the Design Vector Series.
 
 
+---
+
 What are Design Vectors
 ---
 
@@ -13,6 +15,8 @@ Design Vectors is another attempt at sharing my own game/level design philosophi
 
 So why "Design Vectors"? One of the core definitions of a "Vector" is a "geometric entity endowed with magnitude and direction". Every lesson will be designed to be bite sized in nature, the vector's magnitude if you will. Every lesson will also seek to push you towards a direction of exploration. Design as a whole in any industry has so many facets to it and so many variables. The goal of the series is to stir up conversation and bring awareness to my own personal opinion on what variables exist for game development. No matter who reads it, this is also a journey to document and explore things for myself and I'd like to just invite you to join me if you are so inclined.
 
+
+---
 
 Structure of a Design Vector
 ---
@@ -37,6 +41,8 @@ The exploration of the article. This section, like the context will not be in ev
 
 So three major parts. Each of these lessons will be bite sized... like nowhere near this long. If you have taken a look at the Forge Lessons imagine about that long. About 3-5 paragraphs of the actual Vector, 1 context paragraph, and maybe 1 or 2 challenge paragraphs. Also expect to find resources and media relating to the topic at hand. Something I didn't really do with the Forge Lessons.
 
+
+---
 
 Why Halo Forge?
 ---
