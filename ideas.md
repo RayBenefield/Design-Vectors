@@ -1,4 +1,3 @@
- - Common Sense
  - Brainstorming
  - Versioning
  - Iteration
@@ -82,3 +81,10 @@
  - Exposure
  - Navigation
  - Audience
+
+
+---
+
+Written
+---
+ - Critical Thinking
