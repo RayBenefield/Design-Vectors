@@ -8,7 +8,6 @@
  - References
  - Feedback
  - Networking
- - Nike Philosophy (Just Do It)
  - Pomodoro
  - Data Science
  - Engagement (Every 3 seconds)
@@ -86,5 +85,12 @@
 ---
 
 Written
+---
+ - Nike Philosophy (Just Do It)
+
+
+---
+
+Edited
 ---
  - Critical Thinking
