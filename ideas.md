@@ -26,6 +26,7 @@
  - Achievable Development Goals
  - Toy Mechanics
  - Building a Learning Community
+ - Pomodoro
 
  - First Impressions
  - Knowledge is Power
@@ -79,6 +80,11 @@
  - Navigation
  - Audience
 
+---
+
+Needs more
+---
+ - Smaller Things
 
 ---
 
