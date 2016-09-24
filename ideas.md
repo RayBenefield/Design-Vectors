@@ -1,14 +1,12 @@
  - Brainstorming
  - Versioning
  - Iteration
- - Minimal Viable Product (MVP)
  - Prototypes
  - Proof of Concepts/Tech
  - Sharing
  - References
  - Feedback
  - Networking
- - Pomodoro
  - Data Science
  - Engagement (Every 3 seconds)
  - Public Display of Ardor (PDA)
@@ -87,6 +85,7 @@
 Written
 ---
  - Nike Philosophy (Just Do It)
+ - Minimal Viable Product (MVP)
 
 
 ---
